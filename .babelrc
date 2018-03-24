@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "@babel/preset-stage-0",
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-async-generator-functions",
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-proposal-function-bind",
+    "@babel/plugin-proposal-pipeline-operator",
+    "@babel/plugin-syntax-async-generators",
+    "@babel/plugin-syntax-class-properties",
+    "@babel/plugin-syntax-function-bind",
+    "@babel/plugin-syntax-pipeline-operator",
+    "@babel/plugin-transform-classes"
+  ]
+}
